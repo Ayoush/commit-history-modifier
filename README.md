@@ -1,4 +1,4 @@
 # cOMmIt-hiStorY-MoDiFIeR
 coMmIT HISTOrY MoDiFIer
 
-ThIs rEpoSITory CoNTaInS a siMpLE ScrIPt To AUtoMate coMmiT hisTOry MOdIFicaTions. The puRPose iS To tEsT Git coMmIT aUtomATiOn, exPlORE hOw COmmIT hIstorY can bE alTerEd, And exPErimenT With GeNeRating coMmiTs uSing scripTS.
+ThIs rEpoSITory CoNTaInS a siMpLE ScrIPt To AUtoMate coMmiT hisTOry MOdIFicaTions. The puRPose iS To tEsT Git coMmIT aUtomATiOn, exPlORE hOw COmmIT hIstorY can bE alTerEd, And exPErimenT WIth GeNeRating coMmiTs uSing scripTS.
