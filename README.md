@@ -1,4 +1,4 @@
 # CoMMIT-hisToRy-MoDIFiEr
-COMmiT hISTorY mOdifIeR
+COMmiT hISTorY MOdifIeR
 
 ThIs rEpoSITory CoNTaInS a siMpLE ScRIPt To AUtomate coMmIt hisTOry MOdiFicAtioNs. The puRPosE iS to teST GiT coMmIT aUtOmATion, exPlORE hOw COMmIT hIstorY caN be alTeREd, And ExPerimenT WIth GeNeRating coMmiTs uSing scripTS.
