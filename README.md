@@ -1,4 +1,4 @@
-# CoMmit-histORY-MOdifiEr
+# CoMmIt-histORY-MOdifiEr
 ComMiT hIstORY mODIfieR
 
 ThIS RepoSiTorY conTaIns A SIMpLE ScrIpT To AUtOMaTe coMmIt HIsTORy MODificAtIons. the PuRposE Is to teST giT COMMIT AUtOmAtioN, exPlORe hoW COMmIt hIStorY CaN be alTERED, anD EXperiMent wIth GeNerAtIng cOMmITs uSinG scrIpTS.
