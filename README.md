@@ -1,2 +1,2 @@
-# comMIt-hIStoRy-mOdifIeR
+# ComMIt-hIStoRy-mOdifIeR
 Testing some Sub process for moDIFying comMiT histoRy
