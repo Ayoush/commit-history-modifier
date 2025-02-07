@@ -1,2 +1,2 @@
 # ComMit-HIstory-mOdiFiEr
-Testing some suB ProcESs for MOdIFYiNg coMMIT hisTOry
+Testing some suB ProCESs for MOdIFYiNg coMMIT hisTOry
