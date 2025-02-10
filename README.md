@@ -1,2 +1,2 @@
 # CoMmIt-HIStORy-MoDIfIEr
-TESting Some Sub PROceSs fOR MOdIFyiNG COMmIt HIsTORY
+TeSting Some Sub PROceSs fOR MOdIFyiNG COMmIt HIsTORY
