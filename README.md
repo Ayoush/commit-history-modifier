@@ -1,2 +1,2 @@
 # cOMMIT-hIstory-MOdiFiEr
-TEStINg soME sub PRoCeSs For MOdIFYiNg coMMiT hisTOry
+TEStINg soME sub PRoCeSs For MOdIFYiNg coMmiT hisTOry
