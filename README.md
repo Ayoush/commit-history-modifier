@@ -1,4 +1,4 @@
-# cOmmIT-HiSTORY-moDifieR
-Commit History Modifier
+# ComMiT-History-MODIfier
+cOmMit HISTOry MoDifIeR
 
-This repository contains a simple script to automate commit history modifications. The purpose is to test Git commit automation, explore how commit history can be altered, and experiment with generating commits using scripts.
+This rEpoSitory coNTaInS a SiMplE scrIpt To aUtoMate commIT historY modifIcations. The puRpoSe iS To test Git coMmit autoMation, explorE hOW commIt hIstory can be altered, And experimenT WiTh geNeraTing COmmits usiNg scripTs.
