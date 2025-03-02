@@ -1,2 +1,2 @@
-# commit-history-modifier
-Testing some sub process for modifying commit history
+# cOmmIT-HiSTORY-moDifieR
+TEsting SomE suB PROcEss FOr modIFYiNg COMmIt hIsTOrY
