@@ -1,4 +1,4 @@
-# ComMiT-History-MODIfier
-cOmMit HISTOry MoDifIeR
+# cOmmIt-HistOry-MOdIfIER
+comMIT hIstORy mOdIfIER
 
-This rEpoSitory coNTaInS a SiMplE scrIpt To aUtoMate commIT historY modifIcations. The puRpoSe iS To test Git coMmit autoMation, explorE hOW commIt hIstory can be altered, And experimenT WiTh geNeraTing COmmits usiNg scripTs.
+ThIS RepoSiTOrY conTaIns A SIMpLE ScrIpT To AutOMaTe coMmIt HIsTORy MOdificAtIons. The puRpoSE Is to tEST giT COMMIT AUtOmAtioN, explORe hoW COmmIt hIstOrY CaN BE alTERED, anD EXpeRiMent WIth geNerAting cOMmITs uSinG scRIpTS.
